@@ -1,4 +1,4 @@
-streamlit>=1.30.0
-open3d>=0.17.0
-numpy<2.0.0
-Pillow>=10.0.0
+streamlit
+open3d
+numpy
+Pillow
